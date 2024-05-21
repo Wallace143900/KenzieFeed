@@ -1,0 +1,47 @@
+.solidBig{
+    width: 10.375rem;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--blue);
+    border: none;
+    color: var(--white);
+    font-family: var(--font-primary);
+}
+
+.solidMedium{
+    width: 9.0625rem;
+    height: 3.375rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--blue);
+    border: none;
+    color: var(--white);
+    font-family: var(--font-primary);
+}
+
+.solidSmall{
+    width: 7rem;
+    height: 2.6875rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--blue);
+    border: none;
+    color: var(--white);
+    font-family: var(--font-primary);
+}
+
+.outlineSmall{
+    width: 8.3125rem;
+    height: 2.6875rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(white);
+    border: 1px solid var(--blue);
+    color: var(--blue);
+    font-family: var(--font-primary);
+}
